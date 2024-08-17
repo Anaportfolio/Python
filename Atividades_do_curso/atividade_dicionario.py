@@ -52,7 +52,7 @@ for pergunta in perguntas:
         print(' Errou ❌')
     print()
     
-    # Exibindo o resutado 
+    # Exibindo o resultado 
     print('Você acertou ',qtd_acertos)
     print('de', len(perguntas), 'perguntas.')
     
